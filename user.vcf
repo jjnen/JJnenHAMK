@@ -1,13 +1,13 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Jari;Järvinen;;;
-FN: Järvinen  Jari 
-ORG:Häme University of Applied Sciences;
+N;CHARSET=UTF-8:Jari;Järvinen;;;
+FN;CHARSET=UTF-8: Järvinen  Jari 
+ORG;CHARSET=UTF-8:Häme University of Applied Sciences;
 TITLE:BI Analyst\nIT services
 EMAIL;type=INTERNET;type=WORK;type=pref:jari.jarvinen@hamk.fi
 TEL;type=WORK;type=VOICE:+358 4054 77414
-item1.ADR;type=WORK;type=pref:;;Visamäentie 35a;;;13100;Hämeenlinna\nFinland
+item1.ADR;type=WORK;type=pref;CHARSET=UTF-8:;;Visamäentie 35a;;;13100;Hämeenlinna\nFinland
 item1.X-ABADR:sg
 item2.URL;type=pref:www.hamk.fi
 item2.X-ABLabel:_$!<HomePage>!$_
